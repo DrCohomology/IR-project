@@ -1,4 +1,4 @@
-# Perturbations
+# Information Retrieval Project
 
 Federico Matteucci (955753)
 
